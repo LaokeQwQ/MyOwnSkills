@@ -1,0 +1,3 @@
+interface:
+  display_name: "Remote Deploy Defaults"
+  short_description: "Prefer remote server steps for deployment"

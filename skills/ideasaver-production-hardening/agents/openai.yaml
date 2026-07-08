@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "IdeaSaver Hardening"
+  short_description: "IdeaSaver production hardening and release workflow"
+  default_prompt: "Harden this IdeaSaver project for production, including moderation and appeal workflow, security fixes, release checklist, rollback plan, and smoke validation."
