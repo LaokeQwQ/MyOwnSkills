@@ -31,6 +31,7 @@ npx skills add LaokeQwQ/MyOwnSkills --skill github-readme-writer
 | `dogecloud-cdn-api-ops` | Work with DogeCloud CDN domain listing, cache refresh APIs, signing, and operational debugging. |
 | `github-readme-writer` | Write, rewrite, and audit GitHub project READMEs from repository evidence. |
 | `ideasaver-production-hardening` | Harden IdeaSaver-like file platforms for moderation, appeals, rollback, and smoke testing. |
+| `parallel-research-gap-audit` | Run parallel research subagents, cross-check their findings against the current codebase, and consolidate a verified gap report. |
 | `production-runbook-safety` | Review production runbooks, backups, migrations, Docker operations, and rollback steps safely. |
 | `remote-deploy-defaults` | Treat self-hosting and server deployment requests as remote-first by default. |
 | `repo-push-followup` | Prompt for commit/push/sync follow-up after substantial validated repository work. |
@@ -48,6 +49,7 @@ skills/
   dogecloud-cdn-api-ops/
   github-readme-writer/
   ideasaver-production-hardening/
+  parallel-research-gap-audit/
   production-runbook-safety/
   remote-deploy-defaults/
   repo-push-followup/
